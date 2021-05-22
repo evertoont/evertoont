@@ -8,7 +8,7 @@
 
 </p>
 
-- 🌱 I am currently learning React.
+- 🌱 I am currently learning ReactJS.
 - 😄 Pronouns: He / Him ♂.
 
 <h3 align="left">Languages and Tools:</h3>
