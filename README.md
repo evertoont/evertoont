@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Everton Reis</h2>
-<h3 align="center">Fontend Developer</h3>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -8,7 +7,7 @@
 
 </p>
 
-- 🌱 I am currently learning ReactJS.
+- 💻 Software Engineer
 - 📚 Santander Coders scholarship holder, student at Let's Code
 - 🎓 I have a degree in Analysis and systems development
 - 😄 Pronouns: He / Him ♂.
