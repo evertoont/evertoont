@@ -7,9 +7,19 @@
 </div>
 
 <!-- Tags: Languages and Tools  -->
-<p align="center">
- <code>#Javascript</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#ReactJS</code> &nbsp; <code>#ReactNative</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#Redux</code> &nbsp; <code>#SCSS</code> &nbsp;<code>#Python</code>
-</p>
+<div align="center">
+ <img src="https://img.shields.io/badge/JAVASCRIPT-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TYPESCRIPT-121212?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+ <img src="https://img.shields.io/badge/REACTJS-121212?style=for-the-badge&logo=react&logoColor=61dbfb" />
+ <img src="https://img.shields.io/badge/REACT%20NATIVE-121212?style=for-the-badge&logo=react&logoColor=61dbfb" />
+ <img src="https://img.shields.io/badge/Next%20JS-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+ <br/>
+ <img src="https://img.shields.io/badge/Redux-121212?style=for-the-badge&logo=redux&logoColor=764abc" />
+ <img src="https://img.shields.io/badge/SCSS-121212?style=for-the-badge&logo=sass&logoColor=cc6699" />
+ <img src="https://img.shields.io/badge/python-121212?style=for-the-badge&logo=python&logoColor=4b8bbe" />
+ <img src="https://img.shields.io/badge/docker-121212?style=for-the-badge&logo=docker&logoColor=0db7ed" />
+ <img src="https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git&logoColor=F1502f" />
+</div>
 
 <br/>
 
@@ -18,13 +28,11 @@
 
 <!-- Main Content -->
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;
+ Passionate about technology since I was 16, I've been adventuring, creating and discovering new things ever since. 
+ I've always been extremely curious and appreciate small and big discoveries. 
+ Currently I'm focused and trying my best to specialize in the **front-end**, but I don't stop venturing into the **back-end**.
 
-Passionate about technology since I was 16, I've been adventuring, creating and discovering new things ever since. 
-I've always been extremely curious and appreciate small and big discoveries. 
-Currently I'm focused and trying my best to specialize in the **front-end**, but I don't stop venturing into the **back-end**.
-
-   I work at <a href="https://byintera.com/" target="_blank">Intera Talent Hacking (InHire)</a> as a Front-End Software Engineer.
+ I work at <a href="https://byintera.com/" target="_blank">Intera Talent Hacking (InHire)</a> as a Front-End Software Engineer.
 </p>
 
 <br/><br/>
