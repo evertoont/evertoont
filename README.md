@@ -30,7 +30,7 @@
 <p align="justify">
  Passionate about technology since I was 16, I've been adventuring, creating and discovering new things ever since. 
  I've always been extremely curious and appreciate small and big discoveries. 
- Currently I'm focused and trying my best to specialize in the **front-end**, but I don't stop venturing into the **back-end**.
+ Currently I'm focused and trying my best to specialize in the <strong>front-end</strong>, but I don't stop venturing into the <strong>back-end</strong>.
 
  I work at <a href="https://byintera.com/" target="_blank">Intera Talent Hacking (InHire)</a> as a Front-End Software Engineer.
 </p>
