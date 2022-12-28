@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Image: undraw.co -->
-<img src="https://user-images.githubusercontent.com/55769021/209740040-523d7452-f0a7-4c4a-aeac-57984233993c.svg" min-width="380px" width="300px" align="right" alt="Laptop">
+<img src="https://user-images.githubusercontent.com/55769021/209740040-523d7452-f0a7-4c4a-aeac-57984233993c.svg" min-width="380px" width="280px" align="right" alt="Laptop">
 
 <!-- Main Content -->
 <p align="justify">
