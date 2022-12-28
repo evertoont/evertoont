@@ -14,13 +14,15 @@
 <br/>
 
 <!-- Image: undraw.co -->
-<img src="https://user-images.githubusercontent.com/55769021/209740040-523d7452-f0a7-4c4a-aeac-57984233993c.svg" min-width="300px" width="280px" align="right" alt="Laptop">
+<img src="https://user-images.githubusercontent.com/55769021/209740040-523d7452-f0a7-4c4a-aeac-57984233993c.svg" min-width="380px" width="300px" align="right" alt="Laptop">
 
 <!-- Main Content -->
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
 
-Passionate about technology since I was 16, I've been adventuring, creating and discovering new things ever since. I've always been extremely curious and appreciate small and big discoveries. Currently I'm focused and trying my best to specialize in the **front-end**, but I don't stop venturing into the **back-end**.
+Passionate about technology since I was 16, I've been adventuring, creating and discovering new things ever since. 
+I've always been extremely curious and appreciate small and big discoveries. 
+Currently I'm focused and trying my best to specialize in the **front-end**, but I don't stop venturing into the **back-end**.
 
    I work at <a href="https://byintera.com/" target="_blank">Intera Talent Hacking (InHire)</a> as a Front-End Software Engineer.
 </p>
