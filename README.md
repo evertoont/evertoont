@@ -28,7 +28,7 @@ Passionate about technology since I was 16, I've been adventuring, creating and 
 <br/><br/>
 
 <!-- Statistics github -->
-<h5>📈 Some statistics from my profile</h5>
+<h4>📈 Some statistics from my profile</h4>
 
 <div>
   <img height="160em" alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=evertoont&count_private=true&theme=tokyonight"/> 
@@ -36,6 +36,6 @@ Passionate about technology since I was 16, I've been adventuring, creating and 
 </div>
 
 <!-- Contact -->
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 
 <a href="https://www.linkedin.com/in/evertoont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:evertoontcarmo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://dev.to/evertooont"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
