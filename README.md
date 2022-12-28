@@ -3,7 +3,7 @@
  
 <!--  Title   -->
 <div align="center">
- <p><strong>Student | Software Engineer</strong></p>
+ <p><strong>Student | Front-end Software Engineer</strong></p>
 </div>
 
 <!-- Tags: Languages and Tools  -->
