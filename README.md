@@ -32,7 +32,7 @@
  I've always been extremely curious and appreciate small and big discoveries. 
  Currently I'm focused and trying my best to specialize in the <strong>front-end</strong>, but I don't stop venturing into the <strong>back-end</strong>.
 
- I work at <a href="https://byintera.com/" target="_blank">Intera Talent Hacking (InHire)</a> as a Front-End Software Engineer.
+ I work at <a href="https://inhire.app/" target="_blank">InHire - Software de Recrutamento</a> as a Front-End Software Engineer.
 </p>
 
 <br/><br/>
