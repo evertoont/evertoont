@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/python-121212?style=for-the-badge&logo=python&logoColor=4b8bbe" />
  <img src="https://img.shields.io/badge/docker-121212?style=for-the-badge&logo=docker&logoColor=0db7ed" />
  <img src="https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git&logoColor=F1502f" />
+ <img src="https://img.shields.io/badge/-React%20Query-121212?style=for-the-badge&logo=react%20query&logoColor=white" />
 </div>
 
 <br/>
