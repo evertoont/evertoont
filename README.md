@@ -16,6 +16,7 @@
  <br/>
  <img src="https://img.shields.io/badge/Redux-121212?style=for-the-badge&logo=redux&logoColor=764abc" />
  <img src="https://img.shields.io/badge/SCSS-121212?style=for-the-badge&logo=sass&logoColor=cc6699" />
+  <img src="https://img.shields.io/badge/styled--components-121212?style=for-the-badge&logo=styled-components&logoColor=white" />
  <img src="https://img.shields.io/badge/python-121212?style=for-the-badge&logo=python&logoColor=4b8bbe" />
  <img src="https://img.shields.io/badge/docker-121212?style=for-the-badge&logo=docker&logoColor=0db7ed" />
  <img src="https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git&logoColor=F1502f" />
