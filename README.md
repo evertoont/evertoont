@@ -11,8 +11,10 @@
  <img src="https://img.shields.io/badge/JAVASCRIPT-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/TYPESCRIPT-121212?style=for-the-badge&logo=typescript&logoColor=3178c6" />
  <img src="https://img.shields.io/badge/REACTJS-121212?style=for-the-badge&logo=react&logoColor=61dbfb" />
- <img src="https://img.shields.io/badge/REACT%20NATIVE-121212?style=for-the-badge&logo=react&logoColor=61dbfb" />
+ <img src="https://img.shields.io/badge/Vue.js-121212?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+ <img src="https://img.shields.io/badge/Angular-121212?style=for-the-badge&logo=angular&logoColor=white" />
  <img src="https://img.shields.io/badge/Next%20JS-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+ <img src="https://img.shields.io/badge/REACT%20NATIVE-121212?style=for-the-badge&logo=react&logoColor=61dbfb" />
  <br/>
  <img src="https://img.shields.io/badge/Redux-121212?style=for-the-badge&logo=redux&logoColor=764abc" />
  <img src="https://img.shields.io/badge/SCSS-121212?style=for-the-badge&logo=sass&logoColor=cc6699" />
